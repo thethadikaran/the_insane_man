@@ -11,6 +11,7 @@
 <h6>PE</h6>
 <ul>
   <li><a href="PE/multiples_of_3_or_5/">multiples of 3 or 5</a></li>
+  <li><a href="PE/even_fibonacci_numbers/">even fibonacci numbers</a></li>
 </ul>
 
 <br>
